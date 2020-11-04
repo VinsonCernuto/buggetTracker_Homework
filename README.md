@@ -18,6 +18,9 @@
   https://cryptic-thicket-44257.herokuapp.com/
   
   ## Usage
+  <img src ="public\images\screencap.PNG">
+
+  <img src ="public\images\function.gif>
   
   ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
